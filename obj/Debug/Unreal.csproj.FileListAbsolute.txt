@@ -1,0 +1,7 @@
+D:\Works\C#\Unreal\bin\Debug\Unreal.exe.config
+D:\Works\C#\Unreal\bin\Debug\Unreal.exe
+D:\Works\C#\Unreal\bin\Debug\Unreal.pdb
+D:\Works\C#\Unreal\obj\Debug\Unreal.csprojAssemblyReference.cache
+D:\Works\C#\Unreal\obj\Debug\Unreal.csproj.CoreCompileInputs.cache
+D:\Works\C#\Unreal\obj\Debug\Unreal.exe
+D:\Works\C#\Unreal\obj\Debug\Unreal.pdb
